@@ -440,6 +440,11 @@ header{
     background: #546eff;
     transition: 0.3s all linear;
 }
+.hire{
+    display: flex;
+    column-gap: 0.7rem;
+   
+}
 .call{
     width: 120px;
     font-size: 1rem;
