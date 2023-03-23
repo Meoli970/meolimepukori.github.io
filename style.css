@@ -328,7 +328,7 @@ header{
     font-size: 0.9rem;
 }
 
-/* portfolio */
+/* portfolio and certifications */
 
 .portfolio-content{
     display: grid;
@@ -457,6 +457,11 @@ header{
     cursor: pointer;
     text-align: center;
 }
+.call:hover{
+    background: #546eff;
+    transition: 0.3s all linear;   
+}
+  
 /* scroll top */
 .scroll-top{
     position: fixed;
