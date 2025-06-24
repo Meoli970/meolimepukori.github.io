@@ -583,7 +583,7 @@ header{
 
 }
 
-@media (max-width:450){
+@media (max-width:450px){
     .home{
         min-height: 485px;
         padding-top: 5rem;
@@ -617,7 +617,7 @@ header{
         grid-template-columns: 1fr;
     }
 }
-@media (max-width:325){
+@media (max-width:325px){
     .navbar{
         width: 100%;
     }
